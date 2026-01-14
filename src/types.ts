@@ -8,6 +8,4 @@ export interface Student {
 
 export interface StudentState {
   students: Student[];
-  searchTerm: string;
-  filterGrade: string;
 }
